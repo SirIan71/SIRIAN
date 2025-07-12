@@ -1,0 +1,4 @@
+# ignore all data folders and files
+data/
+data/**
+models/
